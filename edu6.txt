@@ -1,2 +1,1 @@
-second  sixth file
-second  sixth file
+this is sixth file
